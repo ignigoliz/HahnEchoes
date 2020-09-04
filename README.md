@@ -6,3 +6,5 @@ The code was written taking an inspiration from the Qiskit textbook and some oth
 found online, along with my own additions were the code was clumsy or difficukt to follow.
 
 THE FINAL NOTEBOOK IS 'MeasuringDecoherence.ipynb'.
+
+Fin the video at https://www.youtube.com/watch?v=4n8k31PpdHY
